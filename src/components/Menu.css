@@ -1,6 +1,7 @@
 .menu-section {
     background-color: transparent;
     /* Uses body bg */
+    padding: var(--section-padding);
 }
 
 .center {

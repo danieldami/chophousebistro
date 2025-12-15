@@ -1,5 +1,6 @@
 .about-section {
     background-color: transparent;
+    padding: var(--section-padding);
 }
 
 .about-container {

@@ -1,6 +1,7 @@
 .testimonials-section {
     background-color: #F0EBE0;
     /* Darker cream/beige */
+    padding: var(--section-padding);
 }
 
 .testimonials-grid {
