@@ -11,8 +11,7 @@ const About = () => {
                 <div className="about-content">
                     <h2 className="section-title">About Us</h2>
                     <p className="about-text">
-                        Flavourtown is more than just a restaurant; it's a culinary journey. We believe in crafting dishes that are not only visually stunning but also explode with flavor in every bite. Our chefs use only the freshest ingredients to bring you the best dining experience in town.
-                    </p>
+                        Chop House Bistro & Grills is a modern dining spot in Port Harcourt where great taste meets great atmosphere. We serve freshly prepared meals, expertly grilled favorites, and delicious local and continental dishes made with quality ingredients. Whether you’re stopping by for a quick bite or a relaxed meal with friends, Chop House offers a satisfying experience every time.</p>
                     <a href="#more" className="button-primary">Read Our Story</a>
                 </div>
             </div>
