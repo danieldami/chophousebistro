@@ -6,7 +6,7 @@ const Footer = () => {
         <footer className="footer" id="contact">
             <div className="container footer-container">
                 <div className="footer-col">
-                    <h3 className="footer-logo">FLAVOURTOWN</h3>
+                    <h3 className="footer-logo">CHOP HOUSE BISTRO</h3>
                     <p>Where taste meets passion. Come dine with us.</p>
                 </div>
                 <div className="footer-col">
@@ -20,9 +20,9 @@ const Footer = () => {
                 </div>
                 <div className="footer-col">
                     <h4>Contact</h4>
-                    <p>123 Flavor Street, Tasty City, FC 90210</p>
-                    <p>+1 (555) 123-4567</p>
-                    <p>hello@flavourtown.com</p>
+                    <p>Merciland, No3, Prince Okey Str. Road, off NTA Road. Port Hacourt</p>
+                    <p>07068853322</p>
+                    <p>hello@chophouse.com</p>
                 </div>
                 <div className="footer-col">
                     <h4>Follow Us</h4>

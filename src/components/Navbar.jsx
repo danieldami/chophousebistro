@@ -23,7 +23,7 @@ const Navbar = () => {
             <div className="navbar-container">
                 <div className="navbar-logo">
                     {/* Logo placeholder, replacing text for now */}
-                    <a href="#">FLAVOURTOWN</a>
+                    <a href="#">CHOP HOUSE BISTRO</a>
                 </div>
                 <div className="navbar-links">
                     <a href="#about" className="nav-link">About Us</a>
