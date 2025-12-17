@@ -44,7 +44,7 @@
 }
 
 .hero-subtitle {
-    color: var(--color-primary);
+    color: #FDFBF7;
     font-size: 1.5rem;
     /* Fallback */
     font-weight: 800;
